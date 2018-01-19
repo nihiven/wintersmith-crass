@@ -1,0 +1,34 @@
+{
+  "author": {
+    "name": "nihiven",
+    "email": "jb@nvn.io"
+  },
+  "bugs": {
+    "url": "https://github.com/nihiven/wintersmith-crass/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "crass": "0.11.2",
+    "coffeescript": "~1.4.0"
+  },
+  "deprecated": false,
+  "description": "A crass plugin for Wintersmitth that minifies CSS files.",
+  "devDependencies": {
+    "wintersmith": ">=2.0.0"
+  },
+  "homepage": "https://github.com/nihiven/wintersmith-crass#readme",
+  "keywords": [
+    "crass",
+    "minify",
+    "css",
+    "wintersmith",
+    "uglify"
+  ],
+  "license": "MIT",
+  "name": "wintersmith-crass",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nihiven/wintersmith-crass.git"
+  },
+  "version": "1.0.0"
+}
